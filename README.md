@@ -1,5 +1,3 @@
-[![CodeWars](https://www.codewars.com/users/anggabanny/badges/large)](https://www.codewars.com/users/anggabanny)
-
 ### Hi there 👋
 
 <!--
