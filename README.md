@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Banny GitHub stats](https://github-readme-stats.vercel.app/api?username=anggabanny)](https://github-readme-stats.vercel.app/api?username=anggabanny&show_icons=true&theme=darcula)
+[![Banny GitHub stats](https://github-readme-stats.vercel.app/api?username=anggabanny&show_icons=true&theme=darcula)](https://github-readme-stats.vercel.app/api?username=anggabanny&show_icons=true&theme=darcula)
 
 <!--
 **anggabanny/anggabanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
